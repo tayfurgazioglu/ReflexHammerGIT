@@ -1,4 +1,4 @@
 # ReflexHammerGIT
 ReflexHammer
 
-You can find ReflexHammer on IOS/ANDROID STORE.
+You can find Reflex Hammer on IOS/ANDROID STORE.
